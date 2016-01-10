@@ -1,0 +1,19 @@
+{
+  "name": "throttle.js",
+  "version": "1.0.1",
+  "description": "Function call throttling (extracted from underscore.js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/endel/throttle.js.git"
+  },
+  "keywords": [
+    "throttle",
+    "throttling"
+  ],
+  "author": "Endel Dreyer",
+  "license": "MIT"
+}
